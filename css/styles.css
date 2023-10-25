@@ -145,7 +145,7 @@ img {
     align-items: center;
 }
 
-.menu-item {
+.menu-link {
     padding: 24px 0;
 }
 
@@ -336,8 +336,8 @@ img {
 /* ======== PORTFOLIO STYLES ========= */
 
 .main-portfolio {
-    padding-top: 120;
-    padding-bottom: 120;
+    padding-top: 120px;
+    padding-bottom: 120px;
 }
 
 .section-title {
